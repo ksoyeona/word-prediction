@@ -1,4 +1,4 @@
-/** Soyeon Kim, cs8bwaha
+/** 
  * 2/25/18
  *
  *File WordModel.java contains program that constructs a WordModel
