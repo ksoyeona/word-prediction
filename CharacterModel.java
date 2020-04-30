@@ -1,4 +1,4 @@
-/**Soyeon Kim, cs8bwaha 
+/**
  *3/1/18
  *
  *File CharacterModel.java contains a ChacterModel class which
