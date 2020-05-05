@@ -240,10 +240,6 @@ public class WordModel {
         return this.degree;
     }
 
-
-
-    /* provided for debug purposes,
-       but really, provided so students can look at how to iterate HashMap */ 
     public void printMap(){
 
         /* for each key (prefix) in predictionMap, 
